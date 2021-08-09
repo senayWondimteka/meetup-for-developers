@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/meetup-for-developers.git/static/css/main.6e5b28ff.chunk.css",
+    "main.js": "/meetup-for-developers.git/static/js/main.d311631f.chunk.js",
+    "main.js.map": "/meetup-for-developers.git/static/js/main.d311631f.chunk.js.map",
+    "runtime-main.js": "/meetup-for-developers.git/static/js/runtime-main.e82587ae.js",
+    "runtime-main.js.map": "/meetup-for-developers.git/static/js/runtime-main.e82587ae.js.map",
+    "static/js/2.633e939a.chunk.js": "/meetup-for-developers.git/static/js/2.633e939a.chunk.js",
+    "static/js/2.633e939a.chunk.js.map": "/meetup-for-developers.git/static/js/2.633e939a.chunk.js.map",
+    "index.html": "/meetup-for-developers.git/index.html",
+    "static/css/main.6e5b28ff.chunk.css.map": "/meetup-for-developers.git/static/css/main.6e5b28ff.chunk.css.map",
+    "static/js/2.633e939a.chunk.js.LICENSE.txt": "/meetup-for-developers.git/static/js/2.633e939a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e82587ae.js",
+    "static/js/2.633e939a.chunk.js",
+    "static/css/main.6e5b28ff.chunk.css",
+    "static/js/main.d311631f.chunk.js"
+  ]
+}
